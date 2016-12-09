@@ -1,0 +1,13 @@
+.border{
+  border: 1px solid black;
+  background-color: gray;
+  margin: 15px;
+  height: 1000px;
+  width: 98%;
+  overflow:hidden;
+}
+
+ul{
+	background-color: white
+}
+
